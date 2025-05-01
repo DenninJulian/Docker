@@ -1,0 +1,8 @@
+Below is the docker hub url:
+https://hub.docker.com/repositories/dennin
+
+Below is the django project documentation
+https://docs.djangoproject.com/en/5.2/intro/tutorial01/
+
+To run the docker in Kali linux. Docker commands is Below
+https://github.com/DenninJulian/Docker/blob/main/README.md
