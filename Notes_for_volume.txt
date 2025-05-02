@@ -1,0 +1,18 @@
+To list the volume in the host
+docker volume ls 
+
+To create a volume in the host
+docker volume create Dennin
+
+To get the metadata(all the details) of the volume. You can use this command to find the details for containers as well.
+docker volume inspect Dennin
+
+To delete the volumen in the host
+docker volume rm Dennin
+
+To mount the volume in a container
+docker run -d --mount source=Dennin, target=/app nginx:latest
+
+To list docker containers which is running
+docker ps
+

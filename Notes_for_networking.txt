@@ -1,0 +1,3 @@
+To write containers in the host and separte it from other container, we can use the below command
+docker run -d --name finance --network=secure-network nginx:lastest
+
